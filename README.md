@@ -2,7 +2,7 @@
 
 This is the 3rd homework of the course on Design and Implementation of Arithmetic Units in NSYSU CSE 583
 
-Use **_define+mode32_** to verify the design in single precision mode
+Use **_define+mode32_** to verify the design in single-precision mode
 
 References:
 1. D. Kim and L.-S. Kim, “A Floating-Point Unit for 4D Vector Inner Product with Reduced Latency”,
